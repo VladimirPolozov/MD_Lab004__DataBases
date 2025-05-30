@@ -1,4 +1,4 @@
-package com.example.md_lab004__databases
+package com.example.md_lab004__databases.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
